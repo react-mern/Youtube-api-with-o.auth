@@ -63,8 +63,6 @@ To run this project locally, follow these steps:
 6. Live link: https://youtube-api-o-auth.vercel.app/
 
 
-Author
-
-Name: Md Kamran
-
+### Author
+Name: Md Kamran<br />
 Email: kamran@simformsolutions.com
