@@ -64,5 +64,7 @@ To run this project locally, follow these steps:
 
 
 Author
-<p>Name: Md Kamran</p>
-<p>Email: kamran@simformsolutions.com</p>
+
+Name: Md Kamran
+
+Email: kamran@simformsolutions.com
